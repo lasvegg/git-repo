@@ -1,6 +1,7 @@
-print('hello world');
-print('hello everybody')
-123
-345
-print('hello my dear friend')
-print ('glad to see you')
+print('hello world;');
+print('hello everybody;')
+123;
+345;
+print('hello my dear friend;')
+print ('glad to see you;')
+
