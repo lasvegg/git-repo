@@ -2,3 +2,4 @@ print('hello world');
 print('hello everybody')
 123
 345
+print('hello my dear friend')
